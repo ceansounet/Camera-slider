@@ -490,9 +490,9 @@
       "plot": "",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "SLIDER_PCB_REV_A.step",
       "svg": "",
-      "vrml": ""
+      "vrml": "SLIDER_PCB_REV_A.wrl"
     },
     "page_layout_descr_file": ""
   },

@@ -1,23 +1,6 @@
 TODO :
 
-Make the motor holder for the right end cap
--add some space for the controls and the PCB
-
-Make the belt tensioner for the left end cap
--add the belt
-
-Camera carriage :
--add a way to lock the camera carriage and under carriage together for transport
-
-Make the tripod under carriage
--maybe add bolts between the top and bottom wheels to strengthen it
-
-PCB :
--add ESP-32 S3
--add end stop
--add 2 A4988 stepper drivers
-
+Optional control panel
 -add 4 buttons and a potentiometer (left, right, pan left, pan right, speed control)
 -add another 4 buttons (Save 1, save 2, save 3, save 4)
--Power supply is a power bank (12V 1.5A)
 
