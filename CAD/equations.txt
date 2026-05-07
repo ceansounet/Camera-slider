@@ -1,5 +1,0 @@
-﻿"Sliding length"= 400mm'min = 0
-"Extrusion length"= "Sliding length" + "Carriage lenght" + "end caps lenght" * 2'min = 2*end caps + carriage length
-"end caps lenght"= 40mm'size of the end caps overlapping with the extrusions on each side
-"Carriage lenght"= 200mm'lenght of the camera carriage
-"Extrusion Spacing"= 120mm'Spacing between both extrusions 80mm + 2*20 for extrusion width

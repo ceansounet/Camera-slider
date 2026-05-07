@@ -451,7 +451,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "SLIDER_PCB_REV_A.kicad_pro",
+    "filename": "controller.kicad_pro",
     "version": 3
   },
   "net_settings": {
@@ -490,9 +490,9 @@
       "plot": "",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "SLIDER_PCB_REV_A.step",
+      "step": "controller.step",
       "svg": "",
-      "vrml": "SLIDER_PCB_REV_A.wrl"
+      "vrml": ""
     },
     "page_layout_descr_file": ""
   },
@@ -560,12 +560,36 @@
           "label": "Datasheet",
           "name": "Datasheet",
           "show": true
+        },
+        {
+          "group_by": false,
+          "label": "Sim.Pins",
+          "name": "Sim.Pins",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Sim.Device",
+          "name": "Sim.Device",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Description",
+          "name": "Description",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "#",
+          "name": "${ITEM_NUMBER}",
+          "show": false
         }
       ],
       "filter_string": "",
       "group_symbols": true,
       "include_excluded_from_bom": true,
-      "name": "Default Editing",
+      "name": "",
       "sort_asc": true,
       "sort_field": "Reference"
     },
@@ -611,7 +635,7 @@
   },
   "sheets": [
     [
-      "9fa00307-bd70-4a19-88d1-9e7d8e21b317",
+      "072096b6-46f5-4f72-8239-fef1bf218677",
       "Root"
     ]
   ],
