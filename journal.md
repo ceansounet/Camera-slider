@@ -42,6 +42,7 @@ then I made a mount on one of my end caps for the motors, then for the idler pul
 
 During session 5, I added another idler pulley at the bottom, and started to work on the mounting system between the sliders and the timing belts.
 
+<img width="671" height="451" alt="image" src="https://github.com/user-attachments/assets/d1fbfd5a-f125-4775-8bb2-49055d85f979" />
 
 **Total time spent: 1h06**
 
@@ -49,7 +50,6 @@ During session 5, I added another idler pulley at the bottom, and started to wor
 
 In this 6th session I added the slot for the GT2 6mm timing belt, and I added an attachment point for the undercarriage as well.
 
-<img width="671" height="451" alt="image" src="https://github.com/user-attachments/assets/d1fbfd5a-f125-4775-8bb2-49055d85f979" />
 
 **Total time spent: 1h02**
 
