@@ -32,8 +32,16 @@ Cut view of the slider :
 <img width="1232" height="267" alt="image" src="https://github.com/user-attachments/assets/3cbacb59-e418-48a8-a279-fa57ae6a5058" />
 PCB for the slider :
 <img width="1156" height="703" alt="image" src="https://github.com/user-attachments/assets/f00367da-e35e-4ab9-875a-1ec737bf8bdf" />
-Controller CAD :
-Main PCB for the controller :
-Second controller PCB :
 
-Exploded shot GIF for Assembly 
+Controller CAD :
+
+Main PCB for the controller :
+
+Second controller PCB : 
+
+Exploded shot GIF for Assembly : 
+
+## Tech used :
+CAD - Solidworks + Grabcad
+PCB - Kicad
+Code - VScode + ESP IDF addon
