@@ -1,3 +1,6 @@
+# Camera-Slider
+This project is a camera slider, useful to take smooth video shots, long moving timelapses, repeatable movement for special effect shots, crash zooms, dolly zooms and much more.
+
 https://www.youtube.com/watch?v=zh-EyJo-g44&list=PLc9wTLk_Nb17q8Yq_pcCUll0olrOZS_lk&pp=0gcJCcwEOCosWNinsAgC
 <img width="1341" height="680" alt="image" src="https://github.com/user-attachments/assets/47c1f184-0134-4c25-bd2a-11ba2616f1b9" />
 <img width="1232" height="267" alt="image" src="https://github.com/user-attachments/assets/3cbacb59-e418-48a8-a279-fa57ae6a5058" />
