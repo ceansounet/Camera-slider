@@ -1,6 +1,4 @@
 TODO :
-
-Optional control panel
--add 4 buttons and a potentiometer (left, right, pan left, pan right, speed control)
--add another 4 buttons (Save 1, save 2, save 3, save 4)
-
+Start the BOM
+add the 2 18650 batteries to the Controller CAD.
+don't forget to add the voltage divider to the battery pins and the batteries 
