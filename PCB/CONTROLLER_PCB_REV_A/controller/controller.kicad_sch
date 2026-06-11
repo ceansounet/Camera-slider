@@ -2770,9 +2770,9 @@
 		)
 		(uuid ccf5e7e9-ca1d-4c88-950a-e9560930268f)
 	)
-	(text "MCP23017 I²C\n"
+	(text "ESP32 S3 supermini"
 		(exclude_from_sim no)
-		(at 58.928 108.966 0)
+		(at 66.04 109.982 0)
 		(effects
 			(font
 				(size 3.81 3.81)
@@ -2863,6 +2863,10 @@
 	(no_connect
 		(at 52.07 175.26)
 		(uuid "09a877aa-0bdb-4a96-af5c-586ddba58702")
+	)
+	(no_connect
+		(at 52.07 139.7)
+		(uuid "2257ed04-2c35-4956-be42-b76d64a43025")
 	)
 	(no_connect
 		(at 77.47 134.62)
