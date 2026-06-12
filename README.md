@@ -51,8 +51,11 @@ Second controller PCB :
 Exploded shot GIF for Assembly : 
 
 ## Tech used :
+
 CAD - Solidworks + Grabcad
+
 PCB - Kicad
+
 Code - VScode + ESP IDF addon
 
 ## Videos and pictures of it working :
