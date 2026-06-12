@@ -1,3 +1,6 @@
+[![View PCB on KiCanvas](https://hack.club/pcb-badge)](https://kicanvas.org/?github=https://github.com/ceansounet/Camera-slider/tree/main/PCB/SLIDER_PCB_REV_A)
+[![View PCB on KiCanvas](https://hack.club/pcb-badge)](https://kicanvas.org/?github=https://github.com/ceansounet/Camera-slider/tree/main/PCB/CONTROLLER_PCB_REV_A/controller)
+[![View PCB on KiCanvas](https://hack.club/pcb-badge)](https://kicanvas.org/?github=https://github.com/ceansounet/Camera-slider/tree/main/PCB/CONTROLLER_PCB_REV_A/keys)
 # Camera-Slider
 This project is a camera slider, useful to take smooth video shots, long moving timelapses, repeatable movement for special effect shots and much more.
 
