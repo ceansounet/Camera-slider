@@ -203,3 +203,21 @@ I also started to think about the camera head, and what I need to buy for it. (i
 
 **Total time spent: 1h07**
 
+# June 11th, 2026: Back to it ! 
+
+I finally came back to this project ! I had to get back into it so I did some CAD, for the Battery pack of the controller, and I worked on the github.
+
+<img width="667" height="414" alt="image" src="https://github.com/user-attachments/assets/ad284ebe-3fca-49a6-abdb-f89e4d62001d" />
+
+**Total time spent: 2h31**
+
+# June 12th, 2026: Submission day !
+
+Final day (before the first submission) ! I'm basically done, I finished up the BOM, made a blender scene for the project, finished the readme, and made all of the 3d printing files for it. (about 2kg of PETG and PLA, over 50 hours and 15 build plates !)
+
+<img width="654" height="403" alt="image" src="https://github.com/user-attachments/assets/43a4b5a3-dd11-46fc-9bba-be12c56cad98" />
+
+**Total time spent: 1h54**
+
+
+
