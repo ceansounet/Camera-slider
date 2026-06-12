@@ -25,17 +25,28 @@ This project is a camera slider, useful to take smooth video shots, long moving 
 [Camera-Slider Playlist](https://www.youtube.com/watch?v=zh-EyJo-g44&list=PLc9wTLk_Nb17q8Yq_pcCUll0olrOZS_lk&pp=0gcJCcwEOCosWNinsAgC)
 
 Main CAD file :
+
 <img width="1341" height="680" alt="image" src="https://github.com/user-attachments/assets/47c1f184-0134-4c25-bd2a-11ba2616f1b9" />
+
 Cut view of the slider :
+
 <img width="1232" height="267" alt="image" src="https://github.com/user-attachments/assets/3cbacb59-e418-48a8-a279-fa57ae6a5058" />
+
 PCB for the slider :
+
 <img width="1156" height="703" alt="image" src="https://github.com/user-attachments/assets/f00367da-e35e-4ab9-875a-1ec737bf8bdf" />
 
 Controller CAD :
 
+<img width="1001" height="674" alt="image" src="https://github.com/user-attachments/assets/e8e2af13-5ba0-4a64-9827-a68d036f61d8" />
+
 Main PCB for the controller :
 
+<img width="903" height="710" alt="image" src="https://github.com/user-attachments/assets/ea64a663-b03c-40ee-98cb-4d8986bf5742" />
+
 Second controller PCB : 
+
+<img width="543" height="464" alt="image" src="https://github.com/user-attachments/assets/3ac0dd56-52c7-4977-8dc3-7b19c4574766" />
 
 Exploded shot GIF for Assembly : 
 
