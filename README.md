@@ -1,12 +1,6 @@
 # Camera-Slider
 This project is a camera slider, useful to take smooth video shots, long moving timelapses, repeatable movement for special effect shots and much more.
 
-## Videos and pictures of it working :
-[we're not there yet]
-
-## Videos took with it :
-[we're not there yet]
-
 ## Features : 
 - 2 motors for translation and rotation
 - Compatible with phone control and a custom controller
@@ -14,6 +8,10 @@ This project is a camera slider, useful to take smooth video shots, long moving 
 - Custom speed curves
 - A ton of possible shots : timelapse, special FX overlaying, object tracking.
 - usb-c charging for both, the slider is compatible with any usb-c battery bank (~20W peak)
+
+<img width="1341" height="680" alt="image" src="ASSETS/Camera slider preview.png" />
+<img width="1341" height="680" alt="image" src="ASSETS/Camera slider preview 2.png" />
+<img width="1341" height="680" alt="image" src="ASSETS/Camera slider preview 3.png" />
 
 ## Workflow :
 - connect
@@ -45,3 +43,10 @@ Exploded shot GIF for Assembly :
 CAD - Solidworks + Grabcad
 PCB - Kicad
 Code - VScode + ESP IDF addon
+
+## Videos and pictures of it working :
+[we're not there yet]
+
+## Videos took with it :
+[we're not there yet]
+
