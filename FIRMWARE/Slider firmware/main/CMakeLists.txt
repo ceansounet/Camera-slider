@@ -1,0 +1,25 @@
+idf_component_register(
+    SRCS
+        "main.c"
+    INCLUDE_DIRS
+        "."
+        "../components/stepper"
+        "../components/webserver"
+        "../components/motion_planner"
+        "../components/wifi_ap"
+        "../components/controller_link"
+    REQUIRES
+        stepper
+        webserver
+        motion_planner
+        wifi_ap
+        controller_link
+        nvs_flash
+        esp_wifi
+        esp_netif
+        esp_http_server
+        driver
+        freertos
+        log
+        json
+)
