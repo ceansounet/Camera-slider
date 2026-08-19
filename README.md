@@ -61,9 +61,9 @@ PCB - Kicad
 
 Code - VScode + ESP IDF addon
 
-## Videos and pictures of it working :
-[we're not there yet]
+## Videos and pictures of the build :
 
-## Videos took with it :
-[we're not there yet]
+<img width="1737" height="960" alt="image" src="https://github.com/user-attachments/assets/725a0b1b-8361-4387-9e70-605e41eb119d" />
+
+
 
