@@ -219,5 +219,16 @@ Final day (before the first submission) ! I'm basically done, I finished up the 
 
 **Total time spent: 1h54**
 
+# July 3rd, 2026: Building
+
+All of the parts have finally arrived, I started by cutting off a bit of the aluminium extrusions, else it wouldn't fit in my luggage to SF, then I had the painstaking process of post processing all of the printed parts, which took a while with all of the supports and the brims.
+I soldered the pcbs with the components needed, but when I tried testing them, I realised both of the esp 32s that I ordered had a non functionnal antenna, which was really bad news because the whole project relied on communication between the controller and the slider, so I had to ditch the controller for now, to at least get the mechanical parts working.
+Since I couldn't communicate with the pcb, I switched to an arduino uno with a cnc hat, that I had bought previously for a cnc project, that I haven't made yet, and got the 12v power from a power supply that I use for my rooms LED lighting.
+I also had to splice the gt2 timing belt into a loop, which is not really meant to be done, but a custom loop this size is basically impossible to buy. so I glued them together and stiched them with nylon, and this holds properly, but the flexibility is gone, which is a problem when it gets into tight curves it can get stuck.
+I had to cut bolts to size, because I forgot to check if I had them, and obviously I didn't.
+
+<img width="1319" height="989" alt="image" src="https://github.com/user-attachments/assets/4cfc4048-9f84-44c8-a082-1158ae6674a4" />
+
+**Total time spent: 5h**
 
 
