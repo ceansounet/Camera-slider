@@ -225,10 +225,20 @@ All of the parts have finally arrived, I started by cutting off a bit of the alu
 I soldered the pcbs with the components needed, but when I tried testing them, I realised both of the esp 32s that I ordered had a non functionnal antenna, which was really bad news because the whole project relied on communication between the controller and the slider, so I had to ditch the controller for now, to at least get the mechanical parts working.
 Since I couldn't communicate with the pcb, I switched to an arduino uno with a cnc hat, that I had bought previously for a cnc project, that I haven't made yet, and got the 12v power from a power supply that I use for my rooms LED lighting.
 I also had to splice the gt2 timing belt into a loop, which is not really meant to be done, but a custom loop this size is basically impossible to buy. so I glued them together and stiched them with nylon, and this holds properly, but the flexibility is gone, which is a problem when it gets into tight curves it can get stuck.
-I had to cut bolts to size, because I forgot to check if I had them, and obviously I didn't.
+
+<img width="1920" height="865" alt="image" src="https://github.com/user-attachments/assets/3c88aec9-4a5e-4f39-bbe8-163913ecaab3" />
+
+**Total time spent: 5h**
+
+# July 4th, 2026: Building pt2
+
+During the design phase, I used bolts that were non standard size, I tought, oh well, I'll figure it out on aliexpress later, and I never did, so I had about 16 m5 bolts to cut manually. I got out the hand saw, and the guide, and I got to work, it took about 5 minutes per screw, with the clean up after because the cuts were not smooth. For some other bolts were this was an option, I printed spacers and used longer screws. I also shortened the motor cables, because the space was limited, so I soldered them shorter, with some heat shrink tubes.
+I inserted all of the heat set inserts inside the 3d printed parts, for the feets. I inserted all of the nuts, and added the wheels to the carriages. I then assembled the gt2 pulleys, and teethed pulleys to the motors and the gear assembly in the middle.
+I also inserted the plastic holders into the bearings, and added them to the carriage.
+I assembled the motors, and inserted the PCBs. Last thing was to put everything together, and test it.
 
 <img width="1319" height="989" alt="image" src="https://github.com/user-attachments/assets/4cfc4048-9f84-44c8-a082-1158ae6674a4" />
 
-**Total time spent: 5h**
+**Total time spent: 2h**
 
 
